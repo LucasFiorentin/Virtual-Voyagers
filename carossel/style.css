@@ -1,0 +1,29 @@
+button {
+  position: absolute;
+  border: solid;
+  background-color: gray;
+  background-image: url(./img/32213.png);
+  
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+  border-color: black;
+  transition: 0.5s;
+}
+
+.esquerda {
+  top: 250px;
+  left: 32px;
+}
+
+.direita {
+  top: 250px;
+  left: 500px;
+}
+
+img {
+  width: 600px;
+  height: 500px;
+}

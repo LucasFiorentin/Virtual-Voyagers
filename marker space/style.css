@@ -1,0 +1,38 @@
+body{
+  background-image: url(img/c6a1f50a-65d1-40e2-961e-329496e20e57.jpg);
+  background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+.title{
+color: yellow;
+font-size: 30px;
+margin-left: 10%;
+}
+
+
+.text{
+  color: white;
+  margin-left: 10%;
+  max-width: 500px;
+}
+
+.botton{
+  border: solid;
+  border-color: orange;
+  border-radius: 10px;
+  max-width: 150px;
+  padding: 5px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.botton:hover{
+  background-color: yellow;
+  color: black;
+  border-color: black;
+  transition: 0.5s;
+  scale: 1.1;
+}
