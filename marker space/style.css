@@ -19,7 +19,7 @@ margin-left: 10%;
   max-width: 500px;
 }
 
-.botton{
+.botton1{
   border: solid;
   border-color: orange;
   border-radius: 10px;
@@ -29,7 +29,7 @@ margin-left: 10%;
   font-family: "Poppins", sans-serif;
 }
 
-.botton:hover{
+.botton1:hover{
   background-color: yellow;
   color: black;
   border-color: black;
@@ -46,6 +46,7 @@ header{
   display: flex;
   flex-direction: row;
   padding-left: 40px;
+  background-color: white;
 }
 .img{
   margin-left: 10%;
