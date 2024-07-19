@@ -23,14 +23,14 @@ body{
   font-size: 12px;
  margin-top: 20px;
  max-width: 800px;
- margin-left: 10%;
+ margin-left: 7%;
  font-family: "Poppins", sans-serif;
 }
 
 .container1{
   display: flex;
-  gap: 50px;
-  background-color: #bbbdbf;
+  gap: 40px;
+  background-color: gainsboro;
   border-radius: 20px;
   text-align: center;
   align-items: center;
@@ -49,4 +49,6 @@ button:hover{
   transition: 0.5s;
 
 }
+
+
 
